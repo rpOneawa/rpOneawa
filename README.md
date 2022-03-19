@@ -1,5 +1,5 @@
 ### Hi there 👋
-Here is rponeawa. I haven't figured out what to write here yet, so please wait for me...
+This is rponeawa. I haven't figured out what to write here yet, so please wait for me...
 <!--
 **rpOneawa/rpOneawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
